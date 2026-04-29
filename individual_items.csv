@@ -1,0 +1,13 @@
+Rater,Item,Median (IQR) human,Median (IQR) AI,p-value
+Patients,Clarity,"4 (3.0, 5.0)","5 (4.0, 5.0)",0.001
+,Appropriateness of the content,"4 (3.0, 5.0)","5 (4.0, 5.0)",0.001
+,Positivity of the content,"4 (3.0, 5.0)","5 (4.0, 5.0)",0.011
+,Appropriateness of the language,"4 (3.0, 5.0)","5 (4.0, 5.0)",0.001
+Expert 1,Clarity,"4 (4.0, 5.0)","5 (5.0, 5.0)",0.000
+,Completness,"5 (4.0, 5.0)","4 (4.0, 5.0)",0.001
+,Correctness,"4 (4.0, 4.0)","4 (4.0, 5.0)",0.010
+,Appropriateness of the language,"4 (4.0, 5.0)","5 (4.0, 5.0)",0.000
+Expert 2,Clarity,"4 (3.0, 4.0)","4 (3.75, 4.0)",0.060
+,Completness,"4 (3.0, 4.0)","3 (2.0, 4.0)",0.000
+,Correctness,"4 (3.0, 4.0)","3 (3.0, 4.0)",0.213
+,Appropriateness of the language,"4 (3.0, 4.0)","4 (4.0, 4.0)",0.084

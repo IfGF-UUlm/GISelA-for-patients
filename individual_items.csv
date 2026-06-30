@@ -1,13 +1,13 @@
-Rater,Item,Median (IQR) human,Median (IQR) AI,p-value
-Patients,Clarity,"4 (3.0, 5.0)","5 (4.0, 5.0)",0.001
-,Appropriateness of the content,"4 (3.0, 5.0)","5 (4.0, 5.0)",0.001
-,Positivity of the content,"4 (3.0, 5.0)","5 (4.0, 5.0)",0.011
-,Appropriateness of the language,"4 (3.0, 5.0)","5 (4.0, 5.0)",0.001
-Expert 1,Clarity,"4 (4.0, 5.0)","5 (5.0, 5.0)",0.000
-,Completness,"5 (4.0, 5.0)","4 (4.0, 5.0)",0.001
-,Correctness,"4 (4.0, 4.0)","4 (4.0, 5.0)",0.010
-,Appropriateness of the language,"4 (4.0, 5.0)","5 (4.0, 5.0)",0.000
-Expert 2,Clarity,"4 (3.0, 4.0)","4 (3.75, 4.0)",0.060
-,Completness,"4 (3.0, 4.0)","3 (2.0, 4.0)",0.000
-,Correctness,"4 (3.0, 4.0)","3 (3.0, 4.0)",0.213
-,Appropriateness of the language,"4 (3.0, 4.0)","4 (4.0, 4.0)",0.084
+Rater,Item,Median (IQR) human,Median (IQR) AI,Rank-biserial r,95% CI,p-value
+Patients,Clarity,"4 (3.0, 5.0)","5 (4.0, 5.0)",-0.642,"[-0.891, -0.352]",0.001
+,Appropriateness of the content,"4 (3.0, 5.0)","5 (4.0, 5.0)",-0.663,"[-0.880, -0.389]",0.001
+,Positivity of the content,"4 (3.0, 5.0)","5 (4.0, 5.0)",-0.474,"[-0.760, -0.157]",0.011
+,Appropriateness of the language,"4 (3.0, 5.0)","5 (4.0, 5.0)",-0.582,"[-0.820, -0.271]",0.001
+Expert 1,Clarity,"4 (4.0, 5.0)","5 (5.0, 5.0)",-0.899,"[-1.000, -0.741]",0.000
+,Completness,"5 (4.0, 5.0)","4 (4.0, 5.0)",0.527,"[0.248, 0.777]",0.001
+,Correctness,"4 (4.0, 4.0)","4 (4.0, 5.0)",-0.440,"[-0.737, -0.131]",0.010
+,Appropriateness of the language,"4 (4.0, 5.0)","5 (4.0, 5.0)",-0.821,"[-0.946, -0.636]",0.000
+Expert 2,Clarity,"4 (3.0, 4.0)","4 (3.75, 4.0)",-0.333,"[-0.669, 0.014]",0.060
+,Completness,"4 (3.0, 4.0)","3 (2.0, 4.0)",0.712,"[0.488, 0.890]",0.000
+,Correctness,"4 (3.0, 4.0)","3 (3.0, 4.0)",0.215,"[-0.137, 0.553]",0.213
+,Appropriateness of the language,"4 (3.0, 4.0)","4 (4.0, 4.0)",-0.326,"[-0.655, 0.042]",0.084
